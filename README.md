@@ -27,9 +27,3 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zaeemyaseen&theme=dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaeemyaseen&show_icons=true&locale=en&layout=compact" alt="zaeemyaseen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaeemyaseen&show_icons=true&locale=en" alt="zaeemyaseen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaeemyaseen&" alt="zaeemyaseen" /></p>

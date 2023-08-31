@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaeemyaseen&label=Profile%20views&color=0e75b6&style=flat" alt="zaeemyaseen" /> </p>
 
-- I’m currently studying **BS Computer Science**
+- 🏫 I’m currently studying **BS Computer Science**
 
 - 🌱 I’m currently learning **Django, Flask, Machine Learning**
 
-- I’m currently working on **Oasis Learning (FYP Project)**
+- ⚒️ I’m currently working on **Oasis Learning (FYP Project)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZaeemYaseen?tab=repositories](https://github.com/ZaeemYaseen?tab=repositories)
 

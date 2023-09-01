@@ -26,4 +26,4 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zaeemyaseen&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zaeemyaseen&theme=dark&hide_border=true&card_width=900)](https://git.io/streak-stats)

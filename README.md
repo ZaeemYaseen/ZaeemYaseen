@@ -1,6 +1,6 @@
 ![MasterHead](github.gif)
 <h1 align="center">As-Salamu Alaykum 👋, I'm Zaeem Muhammad Yaseen</h1>
-<h3 align="center">Creating Scalable Applications with a Passion 🐍🔥 FROM PAKISTAN</h3>
+<h3 align="center">Creating Scalable Softwares with a Passion 🐍🔥 F</h3>
 
 
 - 🏫 I’m currently studying **BS Computer Science**

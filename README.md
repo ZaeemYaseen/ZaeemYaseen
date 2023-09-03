@@ -26,7 +26,7 @@
 
   ![My Skills](https://skillicons.dev/icons?i=python,cpp,vscode,html,css,js,nodejs,express,jquery,postman,django,mysql,idea,docker,figma,xd,git,github,latex&perline=18)
 <div>
-	![image](https://github.com/SaadARazzaq/Rough-Repo/assets/123338307/3bfbca0d-70d9-42ef-a7b3-4cf76b88b199)
+	<img src="https://github.com/SaadARazzaq/Rough-Repo/assets/123338307/3bfbca0d-70d9-42ef-a7b3-4cf76b88b199" alt="Error" />
 	
 </div>
 

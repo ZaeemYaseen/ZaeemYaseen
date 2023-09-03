@@ -26,7 +26,8 @@
 
   ![My Skills](https://skillicons.dev/icons?i=python,cpp,vscode,html,css,js,nodejs,express,jquery,postman,django,mysql,idea,docker,figma,xd,git,github,latex&perline=18)
 <div>
-	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/123338307/265099765-36af6164-de59-4c26-9b46-e6e5ae620773.png" alt="Error" />
+	![image](https://github.com/SaadARazzaq/Rough-Repo/assets/123338307/3bfbca0d-70d9-42ef-a7b3-4cf76b88b199)
+	
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zaeemyaseen&theme=dark&hide_border=true&card_width=990)](https://git.io/streak-stats)

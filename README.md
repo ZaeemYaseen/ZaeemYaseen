@@ -28,4 +28,4 @@
 	<img src="https://github.com/ZaeemYaseen/ZaeemYaseen/blob/main/profile-3d-contrib/profile-gitblock.svg" alt="Error" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zaeemyaseen&theme=dark&hide_border=true&card_width=990)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZaeemYaseen&theme=dark&hide_border=true" alt="GitHub Streak" /></a>

@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently studying **BS Computer Science**
 
-- 🌱 I’m currently learning **Django, Flask, Machine Learning**
+- 🌱 I’m currently learning **Django, Computer Vision, Blockchain, Remote Sensing & GIS**
 
 - ⚒️ I’m currently working on **Oasis Learning (FYP Project)**
 

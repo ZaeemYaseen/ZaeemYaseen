@@ -1,31 +1,84 @@
 ![MasterHead](github.gif)
+
 <h1 align="center">As-Salamu Alaykum 👋, I'm Zaeem Muhammad Yaseen</h1>
-<h3 align="center">Creating Scalable Softwares with a Passion 🐍🔥 </h3>
+<h3 align="center">Backend Engineer | Elixir • Python • Scalable Systems 🚀</h3>
 
+---
 
-- 🏫 I’m currently studying **BS Computer Science**
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Django, Computer Vision, Blockchain, Remote Sensing & GIS**
+- 💼 Associate Software Engineer with hands-on industry experience  
+- ⚙️ Building scalable backend systems using **Elixir, Phoenix, and Python**  
+- 🧠 Strong in **Data Structures, System Design & Problem Solving**  
+- 🤝 Supportive and collaborative team player  
+- 📍 Based in Lahore (Open to relocation)
 
-- ⚒️ I’m currently working on **Oasis Learning (FYP Project)**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZaeemYaseen?tab=repositories](https://github.com/ZaeemYaseen?tab=repositories)
+## 🚀 Experience Highlights
 
-- 💬 Ask me about **C++, Python, Data Structures, Design Algorithm**
+- 🔹 Developed and maintained backend systems using **Elixir & Phoenix (LiveView)**  
+- 🔹 Designed and implemented **REST APIs** for production systems  
+- 🔹 Improved database performance by **25%** through optimized queries  
+- 🔹 Increased test coverage to **82%** with 150+ test cases  
+- 🔹 Built scalable storage solution by migrating Base64 images → cloud (Nebula)  
+- 🔹 Worked on **real-time features** for better user experience  
+- 🔹 Contributed to systems achieving **99% user satisfaction**
 
-- 📫 How to reach me **zaeem.m.yaseen@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=elixir,python,cpp,js,nodejs,express,django,mysql,postgres,docker,git,postman,vscode,idea,figma&perline=8)
+
+---
+
+## 📂 Projects
+
+- 🔗 Explore my work:  
+  👉 https://github.com/ZaeemYaseen?tab=repositories  
+
+---
+
+## 💬 Ask Me About
+
+- Backend Development (Elixir, Python)  
+- API Design & System Architecture  
+- Data Structures & Algorithms  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **zaeem.m.yaseen@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/zaeem-muhammad-yaseen-23211a229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaeem-muhammad-yaseen-23211a229" height="30" width="40" /></a> 
-<a href="https://www.leetcode.com/Zaeem_Yaseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaeem_muhammad_yaseen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaeemyaseen" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/Zaeem_Muhammad_Yaseen" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-  ![My Skills](https://skillicons.dev/icons?i=python,cpp,vscode,html,css,js,nodejs,express,jquery,postman,django,mysql,idea,docker,figma,xd,git,latex&perline=18)
-<div>
-	<img src="https://github.com/ZaeemYaseen/ZaeemYaseen/blob/main/profile-3d-contrib/profile-gitblock.svg" alt="Error" />
+## 📊 GitHub Activity
+
+<div align="center">
+	<img src="https://github.com/ZaeemYaseen/ZaeemYaseen/blob/main/profile-3d-contrib/profile-gitblock.svg" alt="Contribution Graph" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZaeemYaseen&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZaeemYaseen&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## ✨ Philosophy
+
+> “I focus on building reliable, scalable systems that solve real-world problems—not just writing code.”

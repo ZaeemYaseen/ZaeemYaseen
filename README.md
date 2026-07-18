@@ -1,14 +1,14 @@
 ![MasterHead](github.gif)
 
 <h1 align="center">As-Salamu Alaykum 👋, I'm Zaeem Muhammad Yaseen</h1>
-<h3 align="center">Elixir/Phoenix Backend Engineer | APIs • Multi-Tenant Systems • Scalable Software 🚀</h3>
+<h3 align="center">Elixir/Phoenix Backend Engineer | APIs • Databases • Scalable Software 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Associate Software Engineer / Elixir Developer at **OptimaGeeks**, working with **FinoDataServices**
-- ⚙️ Building multi-tenant backend systems with **Elixir, Phoenix, Ecto, PostgreSQL, and Oban**
+- 💼 Associate Software Engineer / Elixir Developer with professional backend experience since August 2024
+- ⚙️ Building backend systems with **Elixir, Phoenix, Ecto, and PostgreSQL**
 - 🧪 Interested in reliable APIs, automated testing, production debugging, and scalable application design
 - 🤝 Collaborative engineer who enjoys learning, reviewing code, and sharing technical knowledge
 
@@ -16,13 +16,11 @@
 
 ## 🚀 Experience Highlights
 
-- 🔹 Currently develop multi-tenant Elixir/Phoenix products for **FinoDataServices** through **OptimaGeeks**
-- 🔹 Built secure account-connection, external API synchronization, and background-processing workflows with Ecto, PostgreSQL, and Oban
-- 🔹 Improved rate-limit handling with non-blocking retries, dedicated queues, staggered jobs, and invalid-key deactivation
-- 🔹 Contributed reusable testing, database, security, accessibility, and CI/CD improvements across a 25-repository Phoenix portfolio
-- 🔹 Previously delivered Elixir/Phoenix backend, REST API, LiveView, database, testing, and production-support work at **Regbits**
-- 🔹 Improved database-query performance by approximately **25%**
-- 🔹 Increased automated test coverage to approximately **82%** and created **150+ tests** for a learning management system
+- 🔹 Develop and maintain backend systems using **Elixir, Phoenix, LiveView, Ecto, and PostgreSQL**
+- 🔹 Design and implement REST APIs, database-backed business logic, and automated tests
+- 🔹 Work across feature design, implementation, testing, delivery, production support, and debugging
+- 🔹 Previously delivered Elixir/Phoenix backend, API, database, testing, and production-support work at **Regbits**
+- 🔹 Migrated Base64 image storage to a cloud platform to improve storage efficiency and retrieval
 
 ---
 
@@ -30,20 +28,21 @@
 
 ![My Skills](https://skillicons.dev/icons?i=elixir,python,js,postgres,docker,git,githubactions,linux&perline=8)
 
-- **Backend:** Phoenix, LiveView, Ecto, Oban, REST APIs, OpenAPI, Gettext, PubSub, OTP concepts
-- **Quality:** ExUnit, LiveViewTest, Wallaby, accessibility testing, Dialyzer, Credo
-- **Delivery:** PostgreSQL, Docker Compose, GitHub Actions, Linux, Bash, Make, GHCR
+- **Backend:** Phoenix, LiveView, Ecto, REST APIs, backend architecture
+- **Data:** PostgreSQL, SQL, migrations, queries, transactions, constraints
+- **Quality:** ExUnit, integration testing, LiveView testing, regression testing
+- **Delivery:** Docker, Docker Compose, GitHub Actions, Git, Linux, Bash
 
 ---
 
 ## 📂 Projects
 
-_Selected professional work; the public repository link below is separate._
+_Selected publicly safe project highlights._
 
-- 🔗 **GetMyInvoices MAS:** Multi-tenant administration and synchronization using Elixir, Phoenix LiveView, Ecto, PostgreSQL, Oban, and OpenAPI
-- ⚙️ **SaaSpresso:** Authenticated provisioning APIs, scoped API keys, background software updates, backup controls, and Docker/GHCR operations
-- 👥 **StaffForge Teams:** Transactional team management with protected membership, lead rules, RBAC, audit logs, and LiveView tests
-- 🌐 **BeeDone:** Persistent Chrome profiles across automation sessions, workers, APIs, migrations, Docker containers, and E2E tests
+- 📚 **Learning Management System:** Created 150+ automated tests, documentation, and type specifications
+- 📈 **Trading Platform API:** Designed and implemented backend APIs for trading workflows
+- ☁️ **Cloud Image Storage Migration:** Migrated image storage from Base64 to a cloud platform for improved scalability and retrieval efficiency
+- 🎵 **Naat Player:** Built a Python desktop application with playback, pause, loop, and skip controls
 
 - 🔗 Explore my public repositories:
   👉 https://github.com/ZaeemYaseen?tab=repositories
@@ -52,9 +51,10 @@ _Selected professional work; the public repository link below is separate._
 
 ## 🏆 Achievements
 
-- 🔹 Optimized Dialyzer workflows across **21 repositories** through reusable caching and CI runner tuning
-- 🔹 Replaced unsafe dynamic atom creation with safe fallbacks and explicit mappings across approximately **18 repositories**
-- 🔹 Reviewed **315 pull requests** authored by other engineers from **18 August 2025 to 18 July 2026**
+- 🔹 Improved database-query performance by approximately **25%**
+- 🔹 Increased automated test coverage to approximately **82%**
+- 🔹 Created **150+ automated tests** for a learning management system
+- 🔹 Supported releases that helped achieve **99% user satisfaction**
 - 🔹 Organized a Python Challenge for **40+ students** as a Beta Microsoft Learn Student Ambassador
 
 ---
@@ -70,8 +70,8 @@ _Selected professional work; the public repository link below is separate._
 ## 💬 Ask Me About
 
 - Elixir/Phoenix backend development
-- REST APIs and external integrations
-- Ecto, PostgreSQL, and Oban workflows
+- REST APIs and backend architecture
+- Ecto and PostgreSQL workflows
 - Automated testing and production debugging
 
 ---
